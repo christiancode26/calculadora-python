@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Python & Guia Interativo",
+  "description": "Código Python limpo e organizado de uma calculadora com as 4 operações básicas, simulador interativo de terminal e explicações detalhadas de cada componente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
